@@ -1,43 +1,58 @@
 [
     {
         "title": "nodejs-servidor-colores",
-        "description": "Un servidor que, al recibir peticiones de un cliente, emite diferente respuestas.",
+        "description": "A server that, upon receiving requests from a client, emits different responses.",
         "image": "https://www.javierdlt.com/wp-content/uploads/2020/05/colores_primarios_secundarios_terciarios.png",
         "github": "https://github.com/SergioCaMi/nodejs-servidor-colores",
         "deployed": "http://example.com",
         "techStack": ["NodeJS"]
     },
-
     {
-        "title": "Blackjack Game",
-        "description": "Simple blackjack game, built with vanilla JavaScript, HTML, and CSS.",
-        "image": "https://placehold.co/600x400/4265E6/FFFFFF.png?text=Project+Screenshot",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "title": "guessing-game-timer",
+        "description": "Add a timer to this game so that if the player does not guess the number within 30 seconds, the game is lost.",
+        "image": "https://sightwords.com/images/math/counting/guess_number.jpg",
+        "github": "https://github.com/SergioCaMi/guessing-game-timer",
         "deployed": "http://example.com",
-        "techStack": ["HTML", "CSS", "JavaScript"]
+        "techStack": ["JavaScript"]
     },
     {
-        "title": "Jira Clone",
-        "description": "Bootcamp group project. Full stack application built with React, JSON Server, and React Testing Library",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "title": "javascript-todo-project",
+        "description": "When I enter text and click the Submit button, a new 'todo' item is created with the entered text and a button to delete the todo.",
+        "image": "https://plan.io/images/blog/title_how-to-make-project-schedule.png?1747227010",
+        "github": "https://github.com/SergioCaMi/javascript-todo-project",
         "deployed": "http://example.com",
-        "techStack": ["React", "Node", "JSON Server", "React Testing Library"]
+        "techStack": ["JavaScript", "HTML", "CSS"]
     },
     {
-        "title": "Cohort Tools",
-        "description": "Bootcamp group project. Full stack application built with React, Node, ExpressJS,  MongoDB, and Tailwind.",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "title": "lab-dom-ironhack-cart",
+        "description": "An exercise to understand the DOM and manipulate DOM elements.",
+        "image": "https://camo.githubusercontent.com/b84ccddc7fcc1a2ec02dc8b9a46441bcdeafe91942d288171323b7d0047f6a85/68747470733a2f2f692e696d6775722e636f6d2f7a4357515967322e706e67",
+        "github": "https://github.com/SergioCaMi/lab-dom-ironhack-cart",
         "deployed": "http://example.com",
-        "techStack": ["React", "Node", "Express", "MongoDB", "Tailwind"]
-    },    
+        "techStack": ["JavaScript", "HTML", "CSS"]
+    },
     {
-        "title": "Weather Dashboard",
-        "description": "Weather tracking application built with React, Node, ExpressJS, MongoDB, Ant Design, and OpenWeather API.",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "title": "balloon-popping-game",
+        "description": "Pop all the balloons, and when you do, display a congratulatory message.",
+        "image": "https://www.handmadecharlotte.com/wp-content/uploads/2016/02/balloonpop.done3_.jpg",
+        "github": "https://github.com/SergioCaMi/balloon-popping-game",
         "deployed": "http://example.com",
-        "techStack": ["React", "Node", "Express", "MongoDB", "Ant Design"]
+        "techStack": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+        "title": "real-time-character-counter",
+        "description": "Implement a character counter.",
+        "image": "https://wordcounter.net/images/character-count.jpg",
+        "github": "https://github.com/SergioCaMi/real-time-character-counter",
+        "deployed": "http://example.com",
+        "techStack": ["JavaScript"]
+    },
+    {
+        "title": "hex-color-background-changer",
+        "description": "Change the background color to a random color.",
+        "image": "https://cdn.sanity.io/images/599r6htc/regionalized/c8ec4519174bb7279d0e90a4e7a77183f6d0d2de-720x405.png?q=75&fit=max&auto=format&dpr=2",
+        "github": "https://github.com/SergioCaMi/hex-color-background-changer",
+        "deployed": "http://example.com",
+        "techStack": ["JavaScript"]
     }
 ]
